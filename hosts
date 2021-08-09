@@ -1,2 +1,2 @@
 [tomcat-nodes]
-3.238.154.70 ansible_user=ubuntu
+100.25.179.249 ansible_user=ubuntu
